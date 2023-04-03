@@ -2,7 +2,7 @@
 
 `albopunkaldi_palindrome` is a sample Ruby gem created in [*Learn Enough Ruby to Be Dangerous*](https://www.learnenough.com/ruby-tutorial) by Alberto Pancaldi.
 
-The purpose of this gem is to detect if a text is whether or not a palindrome.
+The purpose of this gem is to detect if strings or integer are palindrome or not.
 
 ## Installation
 
